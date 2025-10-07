@@ -6,7 +6,8 @@ Welcome to my professional repository! This space serves as the central location
 
 ### 🌟 Quick Access
 
-➡️ **[Click to Download My Latest Resume PDF](** file:///C:/Users/sandy/Downloads/Sandeep-Singh-Resumenew.pdf **)**
+➡️ **[Click to Download My Latest Resume PDF](** (https://raw.githubusercontent.com/sandeep4973/Sandeep-Singh-Resume/main/Sandeep-Singh-Resumenew.pdf
+) **)**
 
 ### 💡 Key Skills & Highlights
 
